@@ -12,7 +12,7 @@
 	4.1 Install in terminal: npm install --save svelte-material-ui
 	4.2 Add stylesheet to <svelte:head>
 	4.3 Pick any card you like, e.g. card with list: https://sveltematerialui.com/demo/card
-	    By copying the relevant code.
+	    Install component, and copy the relevant code.
 	5. Debugging with console.log
 
 	*/
